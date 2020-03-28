@@ -11,3 +11,6 @@ Bu e-book, kişisel bloğumda ( https://medium.com/@suadev ) yayınlamış oldu�
 
 
 Görüş ve öneriler için [twitter](https://twitter.com/kose__suat) dan ulaşabilirsiniz.
+
+Copyright © 2020 Suat KÖSE.
+
