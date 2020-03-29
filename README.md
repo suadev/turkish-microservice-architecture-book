@@ -9,7 +9,7 @@ Bu e-book, kişisel bloğumda ( https://medium.com/@suadev ) yayınlamış oldu�
 - Kitapta bahsedilmesi gerektiğini düşündüğün konular için issue açarak.
 - Yazım yanlışları için issue veya pull request göndererek.
 - Kitapta yanlış veya tartışmalı olduğunu düşündüğün noktaları belirterek.
-- Aktif görev aldığın Mikroservis Mimari dönüşüm projelerini paylaşarak.
+- Aktif görev aldığın Mikroservis Mimari dönüşüm projelerinin hikayesini, doğru ve yanlış yaptığınız noktaları paylaşarak.
 - Daha fazla kişiye ulaşmasını sağlayarak.
 
 ## Todo
