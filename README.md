@@ -1,5 +1,7 @@
 GitBook üzerinden okumak için: https://suadev.gitbook.io/turkish-microservices-book/
 
+Çevrim dışı okumak için pdf versiyonu: https://github.com/suadev/turkish-microservice-architecture-book/blob/master/Mikroservis_Mimari_v1.0.pdf
+
 ## Nedir?
 
 Bu e-book, kişisel bloğumda ( https://medium.com/@suadev ) yayınlamış olduğum Mikroservis Mimari yazılarımın ekleme ve çıkarmalar yapılmış versiyonlarından ve bazı yeni eklenen bölümlerden oluşmaktadır. 
