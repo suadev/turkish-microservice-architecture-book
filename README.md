@@ -18,6 +18,7 @@ Bu e-book, kişisel bloğumda ( https://medium.com/@suadev ) yayınlamış oldu�
 - Github / GitBook entegrasyonu.
 - Mikroservis Mimari Başarılı ve Başarısız Dönüşüm Hikayeleri.
 - Service Mesh bölümü. (https://github.com/suadev/turkish-microservice-architecture-book/issues/1)
+- Merkezileştirilmiş konfigürasyon yönetimi bölümü (https://github.com/suadev/turkish-microservice-architecture-book/issues/2) 
 
 Görüş ve öneriler için [twitter](https://twitter.com/kose__suat) dan ulaşabilirsiniz.
 
